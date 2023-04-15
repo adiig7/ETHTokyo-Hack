@@ -24,7 +24,6 @@ The querying of the data is done with CID Gateway links and then rendered in Fro
 
 Website is currently up and working on the provided links of vercel and Spheron , can be tested according to the docs provided on the website. Also Backend Flow is added in the presentation.
 
-[Video Explanation](https://clipchamp.com/watch/AYASYGnmhvo)
 
 ---
 
@@ -37,7 +36,6 @@ They have currently been published on Polygon Mumbai Testnet due to testing and 
 In the smart contracts themselves you can find dev comments and explanations.
 <br /><br /><br />
 
-**Whitelist.sol** - manages the inital whitelist before the DAO only accepts new mebers through votings
 
 ---
 
@@ -45,7 +43,6 @@ In the smart contracts themselves you can find dev comments and explanations.
 
 For the UI and design we have used the s to setup our project easily and build/design it with the help of JavaScript, React and HTML/CSS.
 
-All the frontend code is available under [/frontend](https://github.com/adiig7/Polygon-BUIDL-IT/tree/main/frontend).
 <br /><br /><br />
 
 ### Frontend folders in our project:
@@ -110,16 +107,6 @@ Look at the docs of RainbowKit on how to use it: [https://www.rainbowkit.com/doc
 **Frontend Developer**
 
 Loves and hates CSS Simulatenously. Worked on making the frontend for the Bloxchange.
-
----
-
-### Pawan Paudel
-
-![pawan](https://raw.githubusercontent.com/pawanpaudel93/portfolio/main/public/img/me.png)
-
-**Blockchain Developer**
-
-Worked on writing the smart contracts and the subgraph.
 
 ---
 
